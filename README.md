@@ -11,5 +11,3 @@ Mostly based in London, UK, I love to organise and attend meetups and conference
 - 📫 How to reach me: `@lispyclouds` on the internet
 - 😄 Pronouns: `they/he/yes`
 - ⚡ Fun fact: _To err is human, to automatically propagate the err everywhere is DevOps._
-
-![lispyclouds' GitHub stats](https://github-readme-stats.vercel.app/api?username=lispyclouds&show_icons=true&hide_border=true&theme=dark)
